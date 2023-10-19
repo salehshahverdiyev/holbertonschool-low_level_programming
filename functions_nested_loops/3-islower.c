@@ -1,8 +1,9 @@
 #include "main.h"
 /**
  * _islower - checks characters
+ * @c: is a parametr,takes characters
  *
- * Return : 0 or 1
+ * Return: Always 0 or 1
  *
 */
 int _islower(int c)

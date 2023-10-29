@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _memset - fills memory 
+ * _memset - fills memory
  * @s: parametr s
  * @b: parametr b
  * @n: parametr n

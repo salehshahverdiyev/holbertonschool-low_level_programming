@@ -8,7 +8,7 @@
  * @array: parametr array
  * @size: parametr size
  * @action: parametr action
- * Description: Executes a function given as a parameter on each element of an array
+ * Description: Executes a function given as a parameter elements of an array
  * Return: void
 */
 void array_iterator(int *array, size_t size, void (*action)(int))

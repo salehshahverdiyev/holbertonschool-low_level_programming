@@ -5,7 +5,7 @@
 /**
  * sum_dlistint - returns the sum of all the data (n) of a linked list
  * @head: head
- * Description: The function returns the sum of all the data (n) of a linked list
+ * Description: The function returns the sum of all the data of a linked list
  * Return: the sum of all the data
 */
 int sum_dlistint(dlistint_t *head)
